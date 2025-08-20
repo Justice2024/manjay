@@ -1,3 +1,3 @@
-# Lesson 2
+# Lesson 3
 
-this is a continuation of lesson 1
+the story is about to start

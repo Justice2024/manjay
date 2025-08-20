@@ -1,3 +1,3 @@
 # Table of contents
 
-* [Lesson 2](README.md)
+* [Lesson 3](README.md)
